@@ -15,7 +15,7 @@
 
 .logo {
   margin-left: 20px;
-  background-image: url(../image/amazon_logo.png);
+  background-image: url(./image/amazon_logo.png);
   width: 100px;
   height: 50px;
   background-size: cover;
@@ -159,7 +159,7 @@
   border: 1.5px solid white;
 }
 .hero-section {
-  background-image: url(../image/hero_image.jpg);
+  background-image: url(./image/hero_image.jpg);
   background-size: cover;
   height: 400px;
   position: relative;
@@ -206,7 +206,7 @@
   margin: 20px;
 }
 .div-image {
-  background-image: url("../image/8th.jpg");
+  background-image: url("./image/8th.jpg");
   background-size: cover;
   height: 300px;
   margin: 20px;
@@ -219,43 +219,43 @@
   transform: scale(0.97) ;
 }
 .div-image2 {
-  background-image: url("../image/5th.jpg");
+  background-image: url("./image/5th.jpg");
   background-size: cover;
   height: 300px;
   margin: 20px;
 }
 .div-image3 {
-  background-image: url("../image/6th.jpg");
+  background-image: url("./image/6th.jpg");
   background-size: cover;
   height: 300px;
   margin: 20px;
 }
 .div-image4 {
-  background-image: url("../image/2nd.jpg");
+  background-image: url("./image/2nd.jpg");
   background-size: cover;
   height: 300px;
   margin: 20px;
 }
 .div-image5 {
-  background-image: url("../image/3rd.jpg");
+  background-image: url("./image/3rd.jpg");
   background-size: cover;
   height: 300px;
   margin: 20px;
 }
 .div-image6 {
-  background-image: url("../image/4th\ .jpg");
+  background-image: url("./image/4th\ .jpg");
   background-size: cover;
   height: 300px;
   margin: 20px;
 }
 .div-image7 {
-  background-image: url("../image/9th.jpg");
+  background-image: url("./image/9th.jpg");
   background-size: cover;
   height: 300px;
   margin: 20px;
 }
 .div-image8 {
-  background-image: url("../image/7th.jpg");
+  background-image: url("./image/7th.jpg");
   background-size: cover;
   height: 300px;
   margin: 20px;
